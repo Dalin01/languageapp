@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Igbo, Hausa &amp; Yoruba</string>
+    <string name="igbo">Igbo (Ásụ̀sụ̀ Ị̀gbò)</string>
+    <string name="hausa">Hausa (Harshen Hausa)</string>
+    <string name="yoruba">Yoruba (Yor. èdè Yorùbá)</string>
+    <string name="igboDescription">The <b>Igbo language</b>, one of the four official languages in Nigeria, is the principal native language of
+        the Igbo people, an ethnic group of southeastern Nigeria. The language currently has approximately 24 million speakers.</string>
+    <string name="hausaDescription">The <b>Hausa language</b>, one of the four official languages in Nigeria, is the principal native language of
+    the Huasa People and the Chadic language, and ethnic group of northern Nigeria. The language currently has approximately 41 million speakers.</string>
+    <string name="yorubaDescription">The <b>Yoruba language</b>, also one of the four official languages in Nigeria, is the principal native language of
+        the Yoruba people, an ethnic group of western Nigeria. The language currently has approximately 30 million speakers.</string>
+    <string name="number">Numbers</string>
+    <string name="alphabet">Alphabets</string>
+    <string name="words">Words</string>
+    <string name="family">Family</string>
+    <string name="colours">Colours</string>
+    <string name="animals">Animals</string>
+    <string name="body_parts">Body Parts</string>
+    <string name="greetings">Greetings</string>
+    <string name="time_date">Time And Date</string>
+    <string name="occupation">Occupations</string>
+    <string name="eating_out">Eating Out</string>
+    <string name="direction">Direction and Places</string>
+    <string name="travelling">Travelling</string>
+    <string name="shopping">Shopping</string>
+    <string name="health">Health</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
